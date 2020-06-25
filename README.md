@@ -3,7 +3,7 @@ machine learning; learning resources; pdfs
 
 This repo contains ML books I collected over the past 2 years. Machine learning researchers and practitioners may find this resource useful.
 
-All PDFs are downloaded from online resources and are intended for personal, private use. 
+__All PDFs are downloaded from online resources and are intended for personal, private use. __
 
 ## Fundamentals:
 1. Probability theory - the logic of science
