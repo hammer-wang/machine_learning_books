@@ -43,4 +43,5 @@ _REPRODUCTION OF THE DOCUMENTS IS AUTHORIZED ONLY FOR INFORMATIVE PURPOSES AND S
 3. Clean Code
 4. The Grammar of Graphics
 5. Quantum Computing Since Democritus
+6. The PhD Grind (strongly recommend)
 
