@@ -12,13 +12,16 @@ _REPRODUCTION OF THE DOCUMENTS IS AUTHORIZED ONLY FOR INFORMATIVE PURPOSES AND S
 
 ## Introductory ML
 1. Pattern recognition and machine learning
-2. Data driven science and engineering - machine learning, dynamical systems, and control
-3. Machine learning: a probabilistic perspective
-4. Dive into deep learning
+2. Machine learning: a probabilistic perspective
+3. Dive into deep learning
+4. 统计学习方法
+5. 百面机器学习
 
 ## Reinforcement Learning
 1. Reinforcement Learning: An introduction (second edition)
 2. Reinforcement Learning: Theory and Algorithms
+3. Deep Reinforcement Learning: Hands On
+4. Multi-Objective Decision Making
 
 ## Advanced Topics
 1. Optimal Transport for Applied Mathmaticians
