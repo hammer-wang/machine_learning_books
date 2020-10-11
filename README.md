@@ -23,6 +23,10 @@ _REPRODUCTION OF THE DOCUMENTS IS AUTHORIZED ONLY FOR INFORMATIVE PURPOSES AND S
 3. Deep Reinforcement Learning: Hands On
 4. Multi-Objective Decision Making
 
+## Computer Vision
+1. Computer Vision: Applications and Algorithms (2nd edition)
+2. The Grammar with Graphics
+
 ## Advanced Topics
 1. Optimal Transport for Applied Mathmaticians
 2. Automated Machine Learning: Methods, Systems, Challenges
